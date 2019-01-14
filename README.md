@@ -10,7 +10,7 @@ simple reverse-proxy with help of ngrok (secure introspectable tunnels to localh
 	2- path to setup ngrok ,it can be any environment variable (optional),ex:
 	path = tmp
 	
-	3- name to rename ngrok (optional),ex:
+	3- name to rename to ngrok (optional),ex:
 	name = ngrok.exe
 	
 	4- authtoken of ngrok account (required),ex:
