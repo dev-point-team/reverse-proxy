@@ -13,7 +13,7 @@ simple reverse-proxy with help of ngrok (secure introspectable tunnels to localh
 	3- name to rename ngrok (optional),ex:
 	name = ngrok.exe
 	
-	4- authtoken of ngrok account (required),ex
+	4- authtoken of ngrok account (required),ex:
 	authtoken = xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 	
 	#how to
