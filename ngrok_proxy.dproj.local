@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017/09/04 22:59:48.000.657,=C:\Users\DELL\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/09/14 17:32:52.000.890,=C:\Users\DELL\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/09/26 17:34:03.000.591,=C:\Users\DELL\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/10/31 15:12:10.000.945,=C:\Users\DELL\Documents\Embarcadero\Studio\Projects\GridView1.pas</Transaction>
+    <Transaction>2017/10/31 15:12:16.000.668,=C:\Users\DELL\Documents\Embarcadero\Studio\Projects\DetailView1.pas</Transaction>
+    <Transaction>2017/11/20 17:31:04.000.384,=C:\Users\DELL\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/11/20 19:03:41.000.802,=C:\Users\DELL\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/11/20 19:13:18.000.605,=C:\Users\DELL\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/12/20 16:58:59.000.292,=C:\Users\DELL\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/12/20 18:45:25.000.979,=C:\Users\DELL\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/05/01 21:21:33.000.111,=C:\Users\DELL\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/05/06 23:54:36.000.307,=C:\Users\DELL\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/05/06 23:58:59.000.016,=C:\Users\DELL\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/05/07 00:04:19.000.372,=C:\Users\DELL\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/05/07 00:25:33.000.084,=C:\Users\DELL\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/01/10 15:03:38.000.715,=C:\Users\DELL\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/01/14 15:58:33.000.918,=C:\Users\DELL\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/01/14 17:27:48.277,C:\Users\DELL\Documents\Embarcadero\Studio\Projects\ngrok-proxy\ngrok.dproj=C:\Users\DELL\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2019/01/14 17:30:07.282,C:\Users\DELL\Documents\Embarcadero\Studio\Projects\ngrok-proxy\ngrok_proxy.dproj=C:\Users\DELL\Documents\Embarcadero\Studio\Projects\ngrok-proxy\ngrok.dproj</Transaction>
+    <Transaction>2019/01/14 17:33:39.146,=C:\Users\DELL\Documents\Embarcadero\Studio\Projects\ngrok-proxy\Unit1.pas</Transaction>
+    <Transaction>2019/01/14 17:33:58.257,C:\Users\DELL\Documents\Embarcadero\Studio\Projects\ngrok-proxy\ngrokmain.pas=C:\Users\DELL\Documents\Embarcadero\Studio\Projects\ngrok-proxy\Unit1.pas</Transaction>
+    <Transaction>2019/01/14 17:34:01.788,C:\Users\DELL\Documents\Embarcadero\Studio\Projects\ngrok-proxy\ngrok_proxy.dproj=C:\Users\DELL\Documents\Embarcadero\Studio\Projects\ngrok-proxy\ngrok_proxy.dproj</Transaction>
+    <Transaction>2019/01/14 17:51:14.935,=C:\Users\DELL\Documents\Embarcadero\Studio\Projects\ngrok-proxy\Win32\Release\ngrok.exe</Transaction>
+    <Transaction>2019/01/14 19:49:58.154,=C:\Users\DELL\Documents\Embarcadero\Studio\Projects\ngrok-proxy\Win32\ngrok.exe</Transaction>
+    <Transaction>2019/01/14 20:34:27.568,=C:\Users\DELL\Documents\Embarcadero\Studio\Projects\ngrok-proxy\ngrok.bin</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5" Android="DrEmulater"/>
+	</ActiveMobileDevice>
+</BorlandProject>
